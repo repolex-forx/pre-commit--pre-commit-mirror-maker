@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pre-commit/pre-commit-mirror-maker/commit/b7a43f1c73e30f14f295e6d04fefb7ca581cd2d9",
       "git:hexsha": "b7a43f1c73e30f14f295e6d04fefb7ca581cd2d9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:38:41.818267+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pre-commit/pre-commit-mirror-maker/commit/22783591e5f5754e2bbf482123fa8ca9bd633683",
